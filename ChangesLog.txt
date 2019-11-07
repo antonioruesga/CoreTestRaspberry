@@ -1,1 +1,2 @@
 [07/11/2019] Base proyect for Test .Net Core app for Raspberry
+[07/11/2019] First Project 
